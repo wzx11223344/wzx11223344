@@ -99,26 +99,6 @@
 <p>空间计量经济学工具包 — Moran's I/SAR/SEM/SDM/SAC + 浓缩MLE</p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<h3>&#128302; <a href="https://github.com/wzx11223344/econnet">EconNet</a></h3>
-<p>&#28145;&#24230;&#23398;&#20064;&#32463;&#27982;&#26102;&#24207;&#39044;&#27979; &#8212; LSTM/TCN/Transformer/N-BEATS &#32431;NumPy&#23454;&#29616;</p>
-</td>
-<td width="50%" valign="top">
-<h3>&#127983; <a href="https://github.com/wzx11223344/policysim">PolicySim</a></h3>
-<p>&#25919;&#31574;&#27169;&#25311;&#19982;&#21453;&#20107;&#23454;&#20998;&#26512;&#24341;&#25806; &#8212; ABM+DID+Synthetic Control &#20174;&#24213;&#23618;&#26500;&#24314;</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>&#128214; <a href="https://github.com/wzx11223344/textecon">TextEcon</a></h3>
-<p>&#32463;&#27982;&#25991;&#26412;NLP&#20998;&#26512; &#8212; &#32654;&#32852;&#20648;FOMC&#24773;&#32490;+LDA&#20027;&#39064;&#24314;&#27169;+&#35789;&#23884;&#20837;</p>
-</td>
-<td width="50%" valign="top">
-<h3>&#128506; <a href="https://github.com/wzx11223344/spatialecon">SpatialEcon</a></h3>
-<p>&#31354;&#38388;&#35745;&#37327;&#32463;&#27982;&#23398; &#8212; Moran&apos;s I/SAR/SEM/SDM/SAC</p>
-</td>
-</tr>
 </table>
 
 ---
