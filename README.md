@@ -79,6 +79,26 @@
 </p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔮 <a href="https://github.com/wzx11223344/econnet">EconNet</a></h3>
+<p>深度学习经济时序预测 — LSTM/TCN/Transformer/N-BEATS 纯NumPy实现</p>
+</td>
+<td width="50%" valign="top">
+<h3>🏛️ <a href="https://github.com/wzx11223344/policysim">PolicySim</a></h3>
+<p>政策模拟与反事实分析引擎 — ABM+DID+Synthetic Control 从底层构建</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📖 <a href="https://github.com/wzx11223344/textecon">TextEcon</a></h3>
+<p>经济文本NLP分析 — 美联储FOMC情绪+LDA主题建模+词嵌入</p>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ <a href="https://github.com/wzx11223344/spatialecon">SpatialEcon</a></h3>
+<p>空间计量经济学工具包 — Moran's I/SAR/SEM/SDM/SAC + 浓缩MLE</p>
+</td>
+</tr>
 </table>
 
 ---
