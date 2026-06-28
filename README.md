@@ -25,6 +25,7 @@
 | [PyConometrics](https://github.com/wzx11223344/pyconometrics) | 从零实现计量经济学库 | OLS · IV/2SLS · DID/RDD · Panel · Logit |
 | [MacroDataHub](https://github.com/wzx11223344/macrodatahub) | 全球宏观经济数据 | WB · FRED · China Stats |
 | [EconPaperKit](https://github.com/wzx11223344/econpaperkit) | 经济论文LaTeX模板 | 三线表 · 自动编译 · BibLaTeX |
+| [ExpressConsumption](https://github.com/wzx11223344/express-consumption) | 快递网点消费经济效应 | 1352份问卷 · Logistic回归 · 条件Logit |
 
 ### 🧠 贝叶斯推断 & 因果推断
 
