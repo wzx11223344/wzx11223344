@@ -15,29 +15,20 @@
 
 ## 📌 项目
 
+### 🧠 [BayesianEconometrics](https://github.com/wzx11223344/bayesmetrics) ⭐ 核心项目
+从零实现的贝叶斯计量经济学引擎 — NUTS/HMC/Gibbs/MH 四种 MCMC 采样器 + BLR/Logit/VAR + 收敛诊断。
+- **NUTS** (No-U-Turn Sampler): 自适应 HMC，Stan/PyMC 核心算法
+- **Hamiltonian MC**: Leapfrog 积分 + 动量翻新
+- **Bayesian VAR**: Minnesota 先验 + Gibbs 采样 + 脉冲响应
+
 ### 🔬 [PyConometrics](https://github.com/wzx11223344/pyconometrics)
-从零实现的计量经济学 Python 库 — 所有模型均由 NumPy 矩阵运算构建，不依赖 statsmodels。
-- OLS 回归（同方差 / HC1 异方差稳健 / 聚类标准误）
-- IV/2SLS 工具变量（第一阶段 F 检验 + Sargan 过度识别）
-- DID 双重差分 & Event Study 事件研究
-- Sharp RDD & Fuzzy RDD 断点回归
-- Panel FE/RE 面板数据 + Hausman 检验
-- Logit/Probit 二元选择模型（Newton-Raphson MLE）
-- 8/8 测试通过 · GitHub Actions CI
+从零实现的计量经济学 Python 库 — OLS, IV/2SLS, DID, RDD, Panel FE/RE, Logit/Probit
 
 ### 📊 [MacroDataHub](https://github.com/wzx11223344/macrodatahub)
-全球宏观经济数据自动化获取、清洗与可视化工具。
-- World Bank API（1000+ 指标，无需 Key）
-- FRED 美国经济数据库
-- 内置中国宏观经济数据集（2000-2023）
-- 统一 pandas DataFrame 接口
+全球宏观经济数据自动化获取工具 — World Bank, FRED, China Stats
 
 ### 📝 [EconPaperKit](https://github.com/wzx11223344/econpaperkit)
-经济学论文 LaTeX 模板套件 — 中英文双语支持。
-- 三线表回归结果模板
-- 计量经济学常用公式宏包
-- BibLaTeX + GB/T 7714 引用格式
-- GitHub Actions 自动编译 PDF
+经济学论文 LaTeX 模板套件 — 三线表 + 计量公式宏包 + 自动编译
 
 ---
 
@@ -45,9 +36,3 @@
 
 - 📧 Email: 3521257027@QQ.com
 - 💬 GitHub: [@wzx11223344](https://github.com/wzx11223344)
-
----
-
-<p align="center">
-  <i>经济学 + 编程 = 无限可能</i>
-</p>
