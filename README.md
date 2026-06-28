@@ -16,122 +16,51 @@
 
 ---
 
-## 🧬 重点项目（Quick Links）
+## 🧬 项目矩阵
 
-> 每个项目都链接到对应仓库主页；如果仓库包含 demo、notebooks 或 examples，会在项目页中标注。
+### 🔬 计量经济学
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🌟 <a href="https://github.com/wzx11223344/econlab">EconomicsLab</a></h3>
-<p>交互式经济学计算实验室 — 内置数据集 · Jupyter 教程 · Web 仪表盘</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-success" />
-<img src="https://img.shields.io/badge/notebooks-10-brightgreen" />
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<p>
-<a href="https://github.com/wzx11223344/econlab/tree/main/examples">▶ Demo / Examples</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/wzx11223344/bayesmetrics">BayesianEconometrics</a></h3>
-<p>从零实现的贝叶斯计量引擎 — NUTS/HMC/Gibbs/MH + BLR/Logit/VAR + 收敛诊断</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-success" />
-<img src="https://img.shields.io/badge/samplers-4-blue" />
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<p>
-<a href="https://github.com/wzx11223344/bayesmetrics">▶ Repo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🧬 <a href="https://github.com/wzx11223344/causal-inference-ml">CausalInference</a></h3>
-<p>因果推断 × 机器学习融合引擎 — Double ML + Causal Forest + Meta-Learners</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-success" />
-<img src="https://img.shields.io/badge/methods-5-blue" />
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<p>
-<a href="https://github.com/wzx11223344/causal-inference-ml">▶ Repo</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🔬 <a href="https://github.com/wzx11223344/pyconometrics">PyConometrics</a></h3>
-<p>从零实现的计量经济学 Python 库 — OLS/IV/DID/RDD/Panel/Logit/Probit</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-success" />
-<img src="https://img.shields.io/badge/models-8-blue" />
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<p>
-<a href="https://github.com/wzx11223344/pyconometrics">▶ Repo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📊 <a href="https://github.com/wzx11223344/macrodatahub">MacroDataHub</a></h3>
-<p>全球宏观经济数据自动化工具 — World Bank + FRED + China Stats</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-success" />
-<img src="https://img.shields.io/badge/indicators-1000+-green" />
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<p>
-<a href="https://github.com/wzx11223344/macrodatahub">▶ Repo</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>📝 <a href="https://github.com/wzx11223344/econpaperkit">EconPaperKit</a></h3>
-<p>经济学论文 LaTeX 模板套件 — 三线表 + 计量公式宏包 + 自动编译</p>
-<p>
-<img src="https://img.shields.io/badge/status-active-success" />
-<img src="https://img.shields.io/badge/language-LaTeX-blueviolet" />
-<img src="https://img.shields.io/badge/license-MIT-green" />
-</p>
-<p>
-<a href="https://github.com/wzx11223344/econpaperkit">▶ Repo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🔮 <a href="https://github.com/wzx11223344/econnet">EconNet</a></h3>
-<p>深度学习经济时序预测 — LSTM/TCN/Transformer/N-BEATS 纯NumPy实现</p>
-<p>
-<a href="https://github.com/wzx11223344/econnet">▶ Repo</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🏛️ <a href="https://github.com/wzx11223344/policysim">PolicySim</a></h3>
-<p>政策模拟与反事实分析引擎 — ABM+DID+Synthetic Control 从底层构建</p>
-<p>
-<a href="https://github.com/wzx11223344/policysim">▶ Repo</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📖 <a href="https://github.com/wzx11223344/textecon">TextEcon</a></h3>
-<p>经济文本NLP分析 — 美联储FOMC情绪+LDA主题建模+词嵌入</p>
-<p>
-<a href="https://github.com/wzx11223344/textecon">▶ Repo</a>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🗺️ <a href="https://github.com/wzx11223344/spatialecon">SpatialEcon</a></h3>
-<p>空间计量经济学工具包 — Moran's I/SAR/SEM/SDM/SAC + 浓缩MLE</p>
-<p>
-<a href="https://github.com/wzx11223344/spatialecon">▶ Repo</a>
-</p>
-</td>
-</tr>
-</table>
+| 项目 | 描述 | 核心技术 |
+|------|------|---------|
+| [PyConometrics](https://github.com/wzx11223344/pyconometrics) | 从零实现计量经济学库 | OLS · IV/2SLS · DID/RDD · Panel · Logit |
+| [MacroDataHub](https://github.com/wzx11223344/macrodatahub) | 全球宏观经济数据 | WB · FRED · China Stats |
+| [EconPaperKit](https://github.com/wzx11223344/econpaperkit) | 经济论文LaTeX模板 | 三线表 · 自动编译 · BibLaTeX |
+
+### 🧠 贝叶斯推断 & 因果推断
+
+| 项目 | 描述 | 核心技术 |
+|------|------|---------|
+| [BayesianEconometrics](https://github.com/wzx11223344/bayesmetrics) | 贝叶斯计量引擎 | NUTS/HMC/Gibbs/MH · BVAR · R-hat |
+| [CausalInference](https://github.com/wzx11223344/causal-inference-ml) | 因果推断×ML | Double ML · Causal Forest · Meta-Learners |
+
+### 🤖 深度学习 & 前沿方法
+
+| 项目 | 描述 | 核心技术 |
+|------|------|---------|
+| [EconNet](https://github.com/wzx11223344/econnet) | 经济时序深度学习 | LSTM · TCN · Transformer · N-BEATS |
+| [DSGEpy](https://github.com/wzx11223344/dsgepy) | 动态随机一般均衡 | RBC · NK · Blanchard-Kahn · IRF |
+| [TextEcon](https://github.com/wzx11223344/textecon) | 经济文本NLP | FOMC情绪 · LDA · 词嵌入 |
+| [NetworkEcon](https://github.com/wzx11223344/networkecon) | 网络经济学 | 中心度 · SIR · 同伴效应 · Louvain |
+
+### 💰 金融工程 & 博弈论
+
+| 项目 | 描述 | 核心技术 |
+|------|------|---------|
+| [QuantLab](https://github.com/wzx11223344/quantlab) | 量化金融实验室 | Black-Scholes · Greeks · VaR · GARCH · NS曲线 |
+| [GameTheory](https://github.com/wzx11223344/gametheory) | 博弈论与机制设计 | Lemke-Howson · 拍卖 · Gale-Shapley · ESS |
+
+### 👨‍💼 劳动经济学 & 政策
+
+| 项目 | 描述 | 核心技术 |
+|------|------|---------|
+| [LaborEcon](https://github.com/wzx11223344/laborecon) | 劳动经济学工具包 | Mincer · Heckman · Oaxaca · DMP |
+| [PolicySim](https://github.com/wzx11223344/policysim) | 政策模拟引擎 | ABM · DID · Synthetic Control |
+
+### 🌟 综合平台
+
+| 项目 | 描述 | 核心技术 |
+|------|------|---------|
+| [EconomicsLab](https://github.com/wzx11223344/econlab) | 交互式计算实验室 | Jupyter · Web UI · 数据集 · 完整文档 |
 
 ---
 
